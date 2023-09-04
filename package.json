@@ -1,0 +1,22 @@
+{
+  "name": "jeu-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Jeu.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TemelD/Jeu-NodeJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TemelD/Jeu-NodeJS/issues"
+  },
+  "homepage": "https://github.com/TemelD/Jeu-NodeJS#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
